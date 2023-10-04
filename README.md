@@ -1,11 +1,11 @@
-🎯**Apresentação Maria Eduarda**
+🎯**Currículo Maria Eduarda**
 
 O repositório apresenta um simples formato de currículo "online", onde foi 
-criado uma página html com informações profissionais e imagens.
+criado uma página html com informações profissionais.
 
 💻**Construção**
 
-A construção da tela foi realizada utilizando html, como linguagem de marcação, css usado para estilização e imagens autorais e do navegador.
+A construção da tela foi realizada utilizando html e css.
 
 📋**Pré-requisitos**
 
