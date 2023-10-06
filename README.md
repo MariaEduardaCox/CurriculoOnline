@@ -5,13 +5,19 @@ criado uma página html com informações profissionais.
 
 💻**Construção**
 
-A construção da tela foi realizada utilizando html e css.
+Html
+
+Css
+
+Visual Studio Code
+
+Navegador
 
 📋**Pré-requisitos**
 
 Navegador 
 
-Visual Studio Code
+IDE de preferência ou editor de texto
 
 ▶️**Instalação**
 
